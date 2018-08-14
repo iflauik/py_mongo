@@ -2,6 +2,6 @@
 Python based access to mongo db / collection 
 
 
-## To install pumongo:
+## To install pymongo:
 
 pip install pymongo
